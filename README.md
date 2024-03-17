@@ -1,5 +1,4 @@
 
-
 ---
 
 # 🌟 Project Name: SimIaC (Simulated Infrastructure as Code)
@@ -20,6 +19,13 @@ SimIaC lowers this barrier by providing:
 - 📝 **IaC Generation:** Upon completing the simulation, users receive automatically generated IaC scripts (e.g., in Terraform or CloudFormation syntax) that replicate the actions taken in the simulated console. This feature helps users learn IaC syntax and principles by example and accelerates the transition from manual resource management to IaC.
 
 - ☁️ **Cross-Cloud Support:** By supporting major cloud providers (AWS, Azure, GCP, etc.), SimIaC enables users to learn and compare different cloud environments and IaC paradigms without deep diving into each provider's documentation.
+
+## 📚 Documentation:
+
+- [Setup Instructions](docs/setup.md)
+- [Contributing Guidelines](docs/contributing.md)
+- [Usage Guide](docs/usage.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## 🚀 User Journey Example:
 
