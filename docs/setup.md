@@ -65,22 +65,11 @@ Additional Configuration
 (Include any additional setup steps like database configuration, environment variables, etc.)
 
 
----
 
-### `contributing.md`
-
-```markdown
-# Contributing to SimIaC
-
-We welcome contributions to the SimIaC project! Here's how you can contribute.
 
 ## Reporting Bugs or Requesting Features
 
 If you encounter any bugs or have a feature request, please use the issue tracker. Provide as much detail as possible in your issue.
-
-## Contributing Code
-
-### Getting Started
 
 1. Fork the repository on GitHub.
 2. Clone your fork to your local machine:
